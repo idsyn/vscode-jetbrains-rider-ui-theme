@@ -1,22 +1,9 @@
 # JetBrains Rider New UI
 
-JetBrains Rider New UI theme for Visual Studio Code. There are 3 color variants:
+JetBrains Rider New UI theme for Visual Studio Code. There are 1 color variants:
 
 - Light
-- Lighter
-- Dark
 
-## Light
-
-![Light](Light.png)
-
-## Lighter
-
-![Lighter](Lighter.png)
-
-## Dark
-
-![Dark](Dark.png)
 
 ## Installing
 
@@ -35,3 +22,5 @@ This extension is available for free in the Visual Studio Code [Marketplace](htt
 ## Recommended icon theme
 
 JetBrains Icon Theme, available in the the Visual Studio Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=chadalen.vscode-jetbrains-icon-theme)
+
+## refer https://github.com/digimezzo/vscode-jetbrains-rider-new-ui-theme
