@@ -43,7 +43,7 @@
     "focusBorder": "#fcbd3866",
     "foreground": "#1d1d1d",
     "gitDecoration.addedResourceForeground": "#3e7718",
-    "gitDecoration.modifiedResourceForeground": "#eca8a84d",
+    "gitDecoration.modifiedResourceForeground": "#0066bf",
     "list.activeSelectionBackground": "#dfdfdf",
     "list.activeSelectionForeground": "#000000",
     "list.focusAndSelectionOutline": "#dfdfdf",
